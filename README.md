@@ -5,24 +5,24 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on persona
 📊 Project Overview
 The goal is to:
 
-Understand user listening habits
+1.Understand user listening habits
 
-Explore trends in streaming data
+2.Explore trends in streaming data
 
-Visualize frequency, duration, and time-based patterns
+3.Visualize frequency, duration, and time-based patterns
 
-Identify favorite artists, songs, and time slots
+4.Identify favorite artists, songs, and time slots
 
 🛠️ Technologies Used
-Python 3
+1.Python 3
 
-Jupyter Notebook
+2.Jupyter Notebook
 
-Pandas – Data manipulation and analysis
+3.Pandas – Data manipulation and analysis
 
-Seaborn – Advanced statistical visualizations (green palette theme)
+4.Seaborn – Advanced statistical visualizations (green palette theme)
 
-Matplotlib – Customizable plotting
+5.Matplotlib – Customizable plotting
 
 📁 Notebook Contents
 The notebook includes:
